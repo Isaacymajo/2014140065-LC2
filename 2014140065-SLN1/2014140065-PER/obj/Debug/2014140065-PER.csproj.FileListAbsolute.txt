@@ -1,0 +1,15 @@
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\2014140065-PER.dll.config
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\2014140065-PER.dll
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\2014140065-PER.pdb
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\2014140065-ENT.dll
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\EntityFramework.dll
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\2014140065-ENT.pdb
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\EntityFramework.xml
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\obj\Debug\2014140065-PER.csprojResolveAssemblyReference.cache
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\obj\Debug\_2014140065_PER.Migrations.InitialModel.resources
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\obj\Debug\_2014140065_PER.Migrations.UpdateChanges.resources
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\obj\Debug\2014140065-PER.csproj.GenerateResource.Cache
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\obj\Debug\2014140065-PER.dll
+C:\Users\Jhulian\Downloads\2014118110-LC2\2014118110-SLN\2014140065-PER\obj\Debug\2014140065-PER.pdb
